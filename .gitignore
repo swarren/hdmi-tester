@@ -1,0 +1,5 @@
+.*.swp
+.*.swo
+rtl/ipcore_dir/
+rtl/iseconfig/
+rtl/work/
