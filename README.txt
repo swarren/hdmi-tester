@@ -29,9 +29,8 @@ Limitations:
 
 Unfortunately, it looks like the Spartan6 PLLs can't run fast enough to
 generate the HDMI bit (not pixel) clock for a max-rate HDMI pixel clock
-(165MHz pixel clock -> 1650MHz bit clock). I'm investigating whether the
-SERDES block can run in DDR rather than SDR mode to work around this.
-Either way, this board is enough to prototype the idea.
+(165MHz pixel clock -> 1650MHz bit clock). Still, this board is enough to
+prototype the idea.
 
 [1] http://www.scarabhardware.com/
 [2] http://www.scarabhardware.com/product/minispartan6-with-spartan-6-lx-25/
