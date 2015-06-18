@@ -1,5 +1,5 @@
-# Based on the following file, which had no license header:
-# https://github.com/scarabhardware/miniSpartan6-plus/blob/master/projects/HDMI_in_out_lx25/HDMI_in_out/pins.ucf
+# Based on miniSpartan6+.ucf in the Scarab IDE, which had no license header
+# (http://www.scarabhardware.com/downloads/)
 
 CONFIG VCCAUX=3.3;
 
